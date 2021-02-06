@@ -8,3 +8,11 @@ The char check program is a simple program where the simple number pyramid progr
  File I/O Sys Calls:
  
  This program is just playing with few sys calls and writng the content of one file to another file .Just a warmup file I wrote to get back playing with sys calls..
+
+
+ Mmaper:-
+ 
+ Just another random small program to do file I/O using mmap syscall..
+ 
+  
+
